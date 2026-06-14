@@ -17,7 +17,7 @@ Fiber-bundle models appear in biomechanics and materials science (e.g., muscle m
 </div>
 <br>
 
-In this project, we study a simplified but tractable mechanical model for an inhomogeneous periodic two-fiber structure subject to an axial load. The two fibers are elastically coupled: each fiber exerts an additional restoring force on the other (see figure below). We assume that: 
+In this project, we study a simplified but tractable mechanical model of an inhomogeneous periodic two-fiber structure subject to an axial load. The two fibers are elastically coupled: each fiber exerts an additional restoring force on the other (see figure below). We assume that: 
  1) temperature effects are negligible
  2) deformations remain small compared with the fiber length. 
 
