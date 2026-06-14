@@ -7,7 +7,17 @@ This repository contains work on the mechanical modeling of a periodic bundle of
 
 # Introduction and method
 
-Fiber-bundle models appear in biomechanics and materials science (e.g., muscle microstructure) and also in radiobiology contexts (e.g., DNA degradation under irradiation). In this project, we study a simplified but tractable mechanical model for an inhomogeneous periodic two-fiber structure subject to an axial load. The two fibers are elastically coupled: each fiber exerts an additional restoring force on the other (see figure below). We assume that: 
+Fiber-bundle models appear in biomechanics and materials science (e.g., muscle microstructure) and also in radiobiology contexts (e.g., DNA degradation under irradiation). 
+
+<br>
+<div align="center">
+	<img src="figs/muscle_psoas_lapin_cropped.png" alt="" />
+	<br>
+  <sub>Myofibril containing a periodic arrangement of sarcomeres</sub>
+</div>
+<br>
+
+In this project, we study a simplified but tractable mechanical model for an inhomogeneous periodic two-fiber structure subject to an axial load. The two fibers are elastically coupled: each fiber exerts an additional restoring force on the other (see figure below). We assume that: 
  1) temperature effects are negligible
  2) deformations remain small compared with the fiber length. 
 
