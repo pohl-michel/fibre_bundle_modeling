@@ -1,11 +1,12 @@
 <!-- markdownlint-disable -->
+# Mechanical modeling of a periodic fiber-bundle structure
 
-# Overview
+## Overview
 
 This repository contains work on the mechanical modeling of a periodic bundle of two coupled fibers and the estimation of its effective Young's modulus under different boundary-condition assumptions and parameter settings, which I carried out during my engineering studies at [Centrale Lille](https://centralelille.fr/en/) in collaboration with [IEMN](https://www.iemn.fr/en/) / [LIMMS](https://limms-tokyo.org/) as part of the [SMILL-E project](https://smmil-e.com/about/overview/) in 2015. See the full project report in French [here](fiber_bundle_modeling_report_french_2015.pdf).
 
 
-# Introduction and method
+## Introduction and method
 
 Fiber-bundle models appear in biomechanics and materials science (e.g., muscle microstructure) and also in radiobiology contexts (e.g., DNA degradation under irradiation). 
 
@@ -36,7 +37,7 @@ Specifically, we study two boundary-condition setups that lead to different effe
 - **Gibbs-type:** imposes equal end tractions/stresses.
 
 
-# Selected results
+## Selected results
 
 For $n$ cells in series, the coupled differential equations characterizing $\xi(x)$—the vector containing axial stresses and displacements at coordinate $x$—can be solved as: 
 
@@ -64,7 +65,7 @@ We define $x = E_\alpha / E_\beta$ as the ratio between the two moduli character
 </div>
 <br>
 
-# How to reference
+## How to reference
 
 If you reuse this report, figures, or code, please reference:
 
