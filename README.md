@@ -65,6 +65,7 @@ We define $x = E_\alpha / E_\beta$ as the ratio between the two moduli character
 </div>
 <br>
 
+
 ## How to reference
 
 If you reuse this report, figures, or code, please reference:
@@ -72,3 +73,8 @@ If you reuse this report, figures, or code, please reference:
 Michel Pohl, *Modélisation biomécanique d'une structure fibrée périodique*, technical report, Centrale Lille, 2015.
 
 Note: Work conducted in collaboration with IEMN (CNRS) under the supervision of Stefano Giordano and Fabio Manca.
+
+
+## License
+
+This repository is released under the BSD-3-Clause license.
